@@ -1,9 +1,3 @@
-git init
-git add .
-git commit -m "Primeira versão do app"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/pizzas-app.git
-git push -u origin main
 
 
 import streamlit as st
